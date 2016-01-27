@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Node.JS Simple Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnshawstudent/comp2106-lab3.git"
+  },
+  "author": "John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnshawstudent/comp2106-lab3/issues"
+  },
+  "homepage": "https://github.com/johnshawstudent/comp2106-lab3#readme"
+}
